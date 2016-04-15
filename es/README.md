@@ -1,6 +1,6 @@
 ##Equipo de desarrollo
 
-* Continuous Integration
+* Integración Continua
 * Auto aprendizaje
 * Auto entrenamiento
 * Psicología de recompensa
@@ -14,6 +14,7 @@
 * Guidelines
 * Responsabilidad de descanso
 * Puntualidad
+* Responsabilidad de refactorización
 
 ##Continuous Integration
 La Integración continua consiste en mantener el ambiente de producción frecuentemente actualizado, con commits e implementaciones constantes.
@@ -62,3 +63,5 @@ http://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People
 ##Guidelines
 ##Responsabilidad de descanso
 ##Puntualidad
+##Responsabilidad de refactorización y cambios
+Si en algún momento, optimizas un código, componente, o función, que es usada en muchas ocasiones, con el propósito de satisfacer unas cuantas incidencias, toma la responsabilidad de reparar los errores que tus cambios dejen.

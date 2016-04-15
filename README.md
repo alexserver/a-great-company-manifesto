@@ -9,7 +9,7 @@ Second Revision, yet incomplete.
 * [Spanish](es/README.md)
 
 ## Motivation
-When I made the leap, back in 2012, from working in National companies to working in an International company, the rules suddenly changed for me.
+When I took the leap, back in 2012, from working in National companies to working in an International company, the rules suddenly changed for me.
 Now I was playing in a different level, more competitive, more assertive, dynamic and demanding to be always updated to the tech scene.
 I went from working into an office 9 to 5, to working remote from anywhere anytime I want.
 We were trusted. We were motivated, but also encouraged to be accountable, which is something you don't usually learn when you work having a boss supervising you everytime.

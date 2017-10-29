@@ -1,66 +1,50 @@
-# Culture
+# The company
 
-## A and B players
+## We chose people
 
-The first time I heard about this term, was from [Guy Kawasaki quoting Steve Jobs](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a):
-> "Actually, Steve believed that A players hire A players—that is people who are as good as they are. I refined this slightly—my theory is that A players hire people even better than themselves. It’s clear, though, that B players hire C players so they can feel superior to them, and C players hire D players. If you start hiring B players, expect what Steve called “the bozo explosion” to happen in your organization." -Guy Kawasaki.
-
-### What's the **bozo explosion** ?
-The [bozo explosion](https://www.xero.com/blog/2012/05/bozo-explosions) is how Steve refers to the decay of a company, as a consequence of hiring B players that won't care about hiring people with worst performance than themselves.
-
-### What's an A player ?
-To my understanding, the A player is "the real deal", "the master", "the winner". This is a person that loves their work, that is passionate about it, and therefore is fully devoted to that.  
-If you go further, there is no separation between their personal life and their professional life, because they're always puttin all their eggs on the basket. Always having a wandering creative mind in the pursuit of self improvement. They always evolve.  
-This doesn't mean that they will sacrifice their personal time for their work time. A wise person knows how to balance their priorities and not drop their guard on the important things.  
-The A player has a hunger for progress, for knowledge, for mastery. They have agile brains always ready to learn something new, and they like to practice their craft.
-
-### What's a B player ?
-The B player might not be as passionate as the A one. But he/she is good.
-Good enough to get the work done.  
-They are accountable, punctual, good workers, but they don't usually cross the border of 9 to 5 routine. They like their spare time, and the same way they respect work time, they expect a company to respect their off time.  
-The B player is not always learning, not always spending their time on practicing, but they can be taught. They can be motivated, or leaded towards a specific direction, and they will succeed.
-
-### What's a C player ?
-The C player lives on the boundaries of mediocrity, where the good is blurry and the bad shows up.  
-A C player can be sloppy, or clumsy; occasionally not paying attention to the details of their work, delivering unfinished work, or untested code.  
-Usually, a C player is a B player in an early stage. You can think of an intern making a lot of mistakes in their first work days, but eventually, over time, gaining experience and self confidence.  
-When clumsiness doesn't dissapear over time, you might be worried, for that person could not be aware of the wasted time they have spent by no learning from their errors.
-
-### What's a D player ?
-Oh, you shall not hire a D player.  
-The D player is selfish, careless, sloppy or even worse, bad on purpose.  
-The D player takes but no gives back.  
-**You shall not hire a D player.**
-
-### What's the right fit to you ?
-
-Well, that depends on what type of company you want to be.
-
-```
-*to be approved*  
-Being mediocre is not bad, this world needs regular measures so best ones can outstand.
-Sometimes people don't want to exploit their potential to the best, or they don't know they can be better, and I personally have respect for that. We're as good as we want and are commited to be.  
-**Personal NOTE:**  
-The word mediocre has been degraded into a negative association, when this is not the case. 
-Mediocre is average, ordinary. It means it is not outstanding.
-```
-
-* Hiring C players is Ok if you're satisfied with being average. An ordinary company that makes some profits and learn through the journey. You'll have ups and downs, but you'll be safe as no big risk will be taken.
-
-* Hiring B players will worth the move when you're behind the wheel. You have to lead them, to motivate them, and why not ? even encourage them to become A players. Who knows ?
-
-* Hiring A players will make you excited, will make you enjoy the journey, and you might get out of your confort zone very often, dealing with fears, but being rewarded with valuable learning and this feeling of fulfillment after conquerring your dreams.
-
-A C player will keep the boat on float. A B one will make the company win and growth conservatively, but you've been warned, if you turn your back, your company might sink.  
-A players will push a company to the limits, they will make it growth high. But they are expensive.
-Usually they're not driven by money, but by wealth. Can you afford one ?
-
-At the awesome company, we love A players. We care about B players and we motivate them to become A ones.
+The awesome company choses people over skills. It believes that great people wil triumph over great skills.
+Great people has the character to run smoothly in a balanced environment. They don't start fights, they don't go behind others backs to solve problems. They know when to say NO, and when to say YES.
+The awesome company knows that is better to invest in good people and help them grow professionally inside the company, than to bring a toxic one with good skills.
 
 ## We love remote working
-## Communication
-## We don't overburn
+
+Yes!. The awesome company doesn't believe in being limited geographically. It believes that talent can comes from anywhere, hence it is open to have an international team. It also believes that a person should be obligated to work in the same place everytime. It believes in freedom of choice. That's why the awesome company expects every team member to choose where and when to work, as long as they provide the requested value.
+
+## We don't like to get overburned
+
+We're humans, not machines. Machines can work continuously as long as they get feed. An even machines need rest from time to time for maintainance.  
+The awesome company team is formed by people, not by human resources. An individual person must be balanced, happy, mentally healthy in order to perform as their best. People have families, friends, romantic relationships, hobbies, dreams to fulfill.  
+That's why the awesome company believes that work should not take important time from them. Everything should be done in no more than 8 hours a day, or maybe 10 if the person wants, but that's their decision. Every team member should know when is good to give more hours, and when is good to press pause in their job routine, and drive the attention to everything else that is also important for them.  
+Is a project urgent? That means we're not being well organized. That's a red flag, that says we're not in control of our process. We should take care of the urgent matter, and be sure it doesn't happen again.
+
 ## Time off
+
+The awesome company believes that it is ok to be absent from time to time.
+
 ## Gender equality
+
+The awesome company doesn't care about a person gender, or sexual preference, but about their believes, and the value they provide.
+A person should be treated equally no matter what gender that person has. They should be assessed by the value they provide, and they should be respected equally as any other member of the team.
+
 ## Concious business
-## Provided value vs economic compensation
+
+The awesome company cares about the world. Really. Think about it, unless Elon Musk succeeds on taking us to Mars, we don't have any other place to go in case this one just breaks down. So it believes in being accountable for not doing harm to our planet.
+The awesome company have conscious about this. It is in control of all impact that their processes may do on the planet and the society. 
+
+## Money in exchange for value
+
+We believe money is a tool for achieving great things. We believe money is important, but it isn't the most important thing on earth.
+
+# The people
+
+## Team players
+## Awareness
+## The bus factor
+## Ownership and accountability
+## Leadership
+## Honesty
+## Punctuality
+## It's OK to say NO
+## Bite the bullet
+## The best tools you can achieve
+## Self Improvement

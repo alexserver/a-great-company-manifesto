@@ -1,35 +1,50 @@
-## [The culture](./culture.md)
+# [The culture](./culture.md)
 
-* [A and B players](./culture.md#a-and-b-players)
+## The company
+
+* We chose people
 * We love remote working
-* Communication
-* We don't get overburned
-* Time off
+* We don't like to get overburned
+* Time off policies
 * Gender equality
 * Concious business
-* Provided value vs economic compensation
+* Money in exchange for value
 
-## The staff
+## The people
 
-* The best tools money can buy
-* Carefulness
+* Team players
+* Awareness
 * The bus factor
-* Ownership over accountability
+* Ownership and accountability
 * Leadership
 * Honesty
 * Punctuality
+* It's OK to say NO
+* Bite the bullet
+* The best tools you can achieve
+* Self Improvement
 
-### The Development team
+# The process
+
+## The team
+
+* Remote Communication
+* Meetings
+* Progress not perfection
+* Progress updates
+* Get things done
+* Procrastination
+
+## The Development team
 
 * Joel test on best practices
 * Continuous Integration
-* Source Code Version Control
+* Version Control
 * Work tools agnosticism
 * Testing
+* Practicing
 * High performance
 * The zone
-* Bugs over new code
-* Specs
-* Self taught driven personality
+* Bugs vs Features
 * Refactoring: Hacking vs Engineering
 * Development conferences

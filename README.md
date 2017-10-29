@@ -8,7 +8,7 @@ You can read this document in [Spanish](README_es.md) also.
 
 ## Motivation
 
-It was the year of 2012, when I did jump from working in Mexican companies, to work for an International Company. The rules drastically changed for me.
+It was the year of 2014, when I did jump from working in Mexican companies, to work for an International Company. The rules drastically changed for me.
 Now I was playing in a different level: more competitive, more direct-language, more dynamic and more demanding for me to be top-notch, always keeping up with the latest software the world can offer for the technology we were using. It was brutal.  
 I went from working into an office 9 to 5, to working remotely from anywhere anytime I wanted.  
 

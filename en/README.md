@@ -3,7 +3,7 @@
 * [A and B players](./culture.md#a-and-b-players)
 * We love remote working
 * Communication
-* We don't overburn
+* We don't get overburned
 * Time off
 * Gender equality
 * Concious business
@@ -19,19 +19,17 @@
 * Honesty
 * Punctuality
 
-### The staff - Development team
+### The Development team
 
 * Joel test on best practices
 * Continuous Integration
-* Source control
+* Source Code Version Control
 * Work tools agnosticism
 * Testing
-* The bus factor
 * High performance
 * The zone
 * Bugs over new code
 * Specs
 * Self taught driven personality
 * Refactoring: Hacking vs Engineering
-* Dev confs
-* Software envangelism
+* Development conferences

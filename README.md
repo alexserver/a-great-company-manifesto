@@ -1,32 +1,28 @@
-# awesome-company-manifesto
-## The awesome company manifesto
+# The Awesome Company Manifesto
 
 
-v0.1.1
-Second Revision, yet incomplete.
+v0.1.2
+Second Revision.
 
-* [English](en/README.md)
-* [Spanish](es/README.md)
+You can read this document in [Spanish](README_es.md) also.
 
 ## Motivation
-When I took the leap, back in 2012, from working in National companies to working in an International company, the rules suddenly changed for me.
-Now I was playing in a different level, more competitive, more assertive, dynamic and demanding to be always updated to the tech scene.  
-I went from working into an office 9 to 5, to working remote from anywhere anytime I want.  
-We were trusted. We were motivated, but also encouraged to be accountable, which is something you don't usually learn when you work having a boss supervising you everytime.  
-I had to grow up, to elevate my mindset and think about value. What value I was giving to the company I was working for ? What value I was getting back ?  
-In the quest for knowlegde on how to achieve this undertaking, I decided to place my learnings here, and share with everyone.
 
-This is not new knowledge, I didn't invent this.
-This is a compilation of all I've seen and read outside, this was passed to me from amazing people and I want to do the same to everyone.
+It was the year of 2012, when I did jump from working in Mexican companies, to work for an International Company. The rules drastically changed for me.
+Now I was playing in a different level: more competitive, more direct-language, more dynamic and more demanding for me to be top-notch, always keeping up with the latest software the world can offer for the technology we were using. It was brutal.  
+I went from working into an office 9 to 5, to working remotely from anywhere anytime I wanted.  
 
+We were trusted. We were motivated, but also we were expected to be accountable, which is a skill you don't develop by being micro managed by a bossy supervisor at your local office.  
+I was used to be pushed and pulled to do my work. Yes, that's how most of us work in big companies: we become lazy after being rushed all day, that we develop this passive-agressive personality, providing resistance to do the activities we're expected to do in exchange for a salary.
 
-**Note(v0.1.0):**
-I'm making this manifesto in spanish because this is my native language, and my ideas flow better in it.
-For the next release I'm intended to translate to English, and any colaboration on manifesto document is pretty much welcome via Pull Request.
+I had to grow up, to elevate my mindset and think about value.  
+What value I was giving to the company I was working for?  
+What value I was getting back?  
+In the quest for knowlegde on how to achieve this undertaking, I decided to express my learnings here, and share with everyone, for I believe good knowledge shall be shared.
 
-**Note(v0.1.1):**
-I decided to move to english version, since, hell, I have to improve my english. I know I'll have many grammar errors, but, hey, the more you help me notice them, the better for me.
-Now you will find more and fresh content in the english zone, and later we will translate to spanish.
-Sorry spanish speakers.
+This is not new knowledge for the humankind, I didn't invent this, in case you're thinking `Tell me something I don't know`.  
+This is a compilation of all I've seen and read outside, this was passed to me from amazing people, mentors, authors of the books I read, admirable bosses; and I want to do the same, share the good practices with everyone else.
 
-*Let's build together awesome companies*
+## The manifesto
+
+You can read the manifesto in [english](en/README.md), or a translation in [spanish](es/README.md).

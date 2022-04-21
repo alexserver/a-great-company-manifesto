@@ -1,50 +1,51 @@
-# [The culture](./culture.md)
+# Our culture
 
-## The company
+## [The company](./the-company.md)
 
 * We chose people
 * We love remote working
-* We don't like to get overburned
-* Time off policies
+* We don't care about geography restrictions
+* We hate burnout
+* Time management
 * Gender equality
 * Concious business
 * Money in exchange for value
+* Perks
 
 ## The people
 
-* Team players
-* Awareness
+* Health awareness
 * The bus factor
 * Ownership and accountability
-* Leadership
+* Team players
 * Honesty
 * Punctuality
 * It's OK to say NO
-* Bite the bullet
 * The best tools you can achieve
 * Self Improvement
 
-# The process
-
-## The team
+## The Remote rules
 
 * Remote Communication
+* Remote Tools
 * Meetings
 * Progress not perfection
 * Progress updates
 * Get things done
+* About sickness
 * Procrastination
 
-## The Development team
 
-* Joel test on best practices
+## The Dev team
+
+* Best practices
 * Continuous Integration
 * Version Control
 * Work tools agnosticism
 * Testing
-* Practicing
-* High performance
+* Team Feedback
 * The zone
 * Bugs vs Features
 * Refactoring: Hacking vs Engineering
-* Development conferences
+* Dev Confs
+* Sharing, giving and receiving
